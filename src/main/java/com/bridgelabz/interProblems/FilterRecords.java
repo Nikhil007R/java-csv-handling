@@ -1,4 +1,4 @@
-package com.bridgelabz.baiscProblems.interProblem;
+package com.bridgelabz.interProblems;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -8,7 +8,6 @@ public class FilterRecords {
     public static void main(String[] args) {
 
         try(BufferedReader br = new BufferedReader(new FileReader("Student.csv"))){
-
             String line;
             br.readLine();  // skipping the first line
             while((line = br.readLine()) != null){
@@ -25,3 +24,4 @@ public class FilterRecords {
         }
     }
 }
+

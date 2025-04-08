@@ -1,4 +1,4 @@
-package com.bridgelabz.baiscProblems.interProblem;
+package com.bridgelabz.interProblems;
 
 import java.io.*;
 
@@ -32,3 +32,4 @@ public class ModifyFile {
     }
 
 }
+
