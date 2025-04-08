@@ -1,4 +1,4 @@
-package com.bridgelabz.baiscProblems.intermediateProblems;
+package com.bridgelabz.baiscProblems.interProblem;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -38,4 +38,5 @@ public class SearchRecord {
             e.printStackTrace();
         }
     }
+
 }
